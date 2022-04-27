@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\bin\Debug\net5.0\CursoCSharp.Biblioteca.deps.json
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\bin\Debug\net5.0\CursoCSharp.Biblioteca.dll
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\bin\Debug\net5.0\ref\CursoCSharp.Biblioteca.dll
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\bin\Debug\net5.0\CursoCSharp.Biblioteca.pdb
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.dll
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\ref\CursoCSharp.Biblioteca.dll
+C:\Users\usuario\source\repos\CURSO C#\CursoCSharp\CursoCSharp.Biblioteca\obj\Debug\net5.0\CursoCSharp.Biblioteca.pdb

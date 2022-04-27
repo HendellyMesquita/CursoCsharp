@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CursoCSharp.Biblioteca/1.0.0": {
+        "runtime": {
+          "CursoCSharp.Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp.Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
